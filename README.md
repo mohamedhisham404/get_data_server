@@ -8,6 +8,8 @@ i have a minimal dataBase that have 3 tables <br>
 #### -Like [post_id, user_id, timestamp]<br>
 <br>
 I have another function that return all DTO schemas my app have using swagger
+It is inegrated with my other app clone it and run  
+[https://github.com/mohamedhisham404/data_LlmService] (https://github.com/mohamedhisham404/data_LlmService)
 
 ## Project clone
 ```bash
